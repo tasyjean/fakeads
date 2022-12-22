@@ -1,0 +1,52 @@
+{
+        "status":"success",
+        "data":[
+            {
+                "title":"ad title",
+                "body_text":" ad description",
+                "main_image_url":"https://picsum.photos/1200/627",
+                "icon_url":"https://picsum.photos/200",
+                "impression_tracking_url":"",
+                "click_tracking_url":"",
+                "landing_page_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
+                "deeplink":"",
+                "cta":"Install"
+        },
+          {
+                "title":"ad title2",
+                "body_text":" ad description2",
+                "main_image_url":"https://picsum.photos/1200/627",
+                "icon_url":"https://picsum.photos/200",
+                "impression_tracking_url":"",
+                "click_tracking_url":"",
+                "landing_page_url":"whatsapp://send?text=MESSAGE&phone=+201000712557&abid=+201000712557",
+                "deeplink":"",
+                 "cta":"Download"
+        },
+        {
+                "title":"Nam quis nulla. Integer",
+                "body_text":"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus.",
+                "main_image_url":"https://picsum.photos/1200/627",
+                "icon_url":"https://picsum.photos/200",
+                "impression_tracking_url":"",
+                "click_tracking_url":"",
+                "landing_page_url":"whatsapp://send?text=MESSAGE&phone=+201000712557&abid=+201000712557",
+                "deeplink":"",
+                 "cta":"Get It"
+        },
+          {
+                "title":"Nam quis nulla. Integer",
+                "body_text":"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus.",
+                "main_image_url":"https://picsum.photos/1200/627",
+                "icon_url":"https://picsum.photos/200",
+                "impression_tracking_url":"",
+                "click_tracking_url":"",
+                "landing_page_url":"https://space-shooter-star-squadron.en.aptoide.com/app",
+                "deeplink":"",
+                 "cta":"Open App"
+        }
+
+
+        ]
+
+}
