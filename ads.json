@@ -9,7 +9,7 @@
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
                 "destination_link_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
-                "deep_link_url":"",
+                "fallback_url":"",
                 "cta":"Install"
         },
           {
@@ -20,7 +20,7 @@
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
                 "destination_link_url":"https://twitter.com/bartt/status/584046346862100481",
-                "deep_link_url":"https://play.google.com/store/apps/details?id=com.twitter.android",
+                "fallback_url":"https://play.google.com/store/apps/details?id=com.twitter.android",
                  "cta":"Download"
         },
         {
@@ -31,7 +31,7 @@
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
                 "destination_link_url":"https://play.google.com/store/apps/details?id=com.apowersoft.photoenhancer",
-                "deep_link_url":"",
+                "fallback_url":"",
                  "cta":"Get It"
         },
           {
@@ -42,7 +42,7 @@
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
                 "destination_link_url":"https://play.google.com/store/apps/details?id=com.bigjpg",
-                "deep_link_url":"",
+                "fallback_url":"",
                  "cta":"Open App"
         }
 
