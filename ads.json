@@ -2,25 +2,25 @@
         "status":"success",
         "data":[
             {
-                "title":"ad title",
+                "title":"Keto Receipes",
                 "body_text":" ad description",
                 "main_image_url":"https://picsum.photos/1200/627",
                 "icon_url":"https://picsum.photos/200",
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
-                "landing_page_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
-                "deeplink":"",
+                "destination_link_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
+                "deep_link_url":"",
                 "cta":"Install"
         },
           {
-                "title":"ad title2",
+                "title":"Twitter",
                 "body_text":" ad description2",
                 "main_image_url":"https://picsum.photos/1200/627",
                 "icon_url":"https://picsum.photos/200",
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
-                "landing_page_url":"whatsapp://send?text=MESSAGE&phone=+201000712557&abid=+201000712557",
-                "deeplink":"",
+                "destination_link_url":"https://twitter.com/bartt/status/584046346862100481",
+                "deep_link_url":"https://play.google.com/store/apps/details?id=com.twitter.android",
                  "cta":"Download"
         },
         {
@@ -30,8 +30,8 @@
                 "icon_url":"https://picsum.photos/200",
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
-                "landing_page_url":"whatsapp://send?text=MESSAGE&phone=+201000712557&abid=+201000712557",
-                "deeplink":"",
+                "destination_link_url":"https://play.google.com/store/apps/details?id=com.apowersoft.photoenhancer",
+                "deep_link_url":"",
                  "cta":"Get It"
         },
           {
@@ -41,8 +41,8 @@
                 "icon_url":"https://picsum.photos/200",
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
-                "landing_page_url":"https://space-shooter-star-squadron.en.aptoide.com/app",
-                "deeplink":"",
+                "destination_link_url":"https://play.google.com/store/apps/details?id=com.bigjpg",
+                "deep_link_url":"",
                  "cta":"Open App"
         }
 
