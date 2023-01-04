@@ -8,8 +8,8 @@
                 "icon_url":"https://picsum.photos/200",
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
-                "destination_link_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
-                "fallback_url":"",
+                "storelink_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
+                "deeplink_url":"",
                 "cta":"Install"
         },
           {
@@ -19,8 +19,8 @@
                 "icon_url":"https://picsum.photos/200",
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
-                "destination_link_url":"https://twitter.com/bartt/status/584046346862100481",
-                "fallback_url":"https://play.google.com/store/apps/details?id=com.twitter.android",
+                "deeplink_url":"https://twitter.com/bartt/status/584046346862100481",
+                "storelink_url":"https://play.google.com/store/apps/details?id=com.twitter.android",
                  "cta":"Download"
         },
         {
@@ -30,8 +30,8 @@
                 "icon_url":"https://picsum.photos/200",
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
-                "destination_link_url":"https://play.google.com/store/apps/details?id=com.apowersoft.photoenhancer",
-                "fallback_url":"",
+                "storelink_url":"https://play.google.com/store/apps/details?id=com.apowersoft.photoenhancer",
+                "deeplink_url":"",
                  "cta":"Get It"
         },
           {
@@ -41,8 +41,8 @@
                 "icon_url":"https://picsum.photos/200",
                 "impression_tracking_url":"",
                 "click_tracking_url":"",
-                "destination_link_url":"https://play.google.com/store/apps/details?id=com.bigjpg",
-                "fallback_url":"",
+                "storelink_url":"https://play.google.com/store/apps/details?id=com.bigjpg",
+                "deeplink_url":"",
                  "cta":"Open App"
         }
 
