@@ -1,18 +1,7 @@
 {
         "status":"success",
         "data":[
-            /*{
-                "request_id":"54"
-                "title":"Keto Receipes",
-                "body_text":" ad description",
-                "main_image_url":"https://picsum.photos/1200/627",
-                "icon_url":"https://picsum.photos/200",
-                "impression_tracking_url":"",
-                "click_tracking_url":"",
-                "storelink_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
-                "deeplink_url":"",
-                "cta":"Install"
-        },*/
+         
         {
                 "request_id":"54",
                 "title":"Twitter",
@@ -26,30 +15,8 @@
                 "storelink_url":"https://play.google.com/store/apps/details?id=com.twitter.android",
                  "cta":"Download"
         },
-        /*  {
-                "title":"Nam quis nulla. Integer",
-                "body_text":"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus.",
-                "main_image_url":"https://picsum.photos/1200/627",
-                "icon_url":"https://picsum.photos/200",
-                "impression_tracking_url":"",
-                "click_tracking_url":"",
-                "storelink_url":"https://play.google.com/store/apps/details?id=com.apowersoft.photoenhancer",
-                "deeplink_url":"",
-                 "cta":"Get It"
-        },
-          {
-                "title":"Nam quis nulla. Integer",
-                "body_text":"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus.",
-                "main_image_url":"https://picsum.photos/1200/627",
-                "icon_url":"https://picsum.photos/200",
-                "impression_tracking_url":"",
-                "click_tracking_url":"",
-                "storelink_url":"https://play.google.com/store/apps/details?id=com.bigjpg",
-                "deeplink_url":"",
-                 "cta":"Open App"
-        }
 
-*/
+        
         ]
 
 }
