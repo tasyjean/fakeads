@@ -5,14 +5,14 @@
 		{
 			"request_id": "54",
 			"title": "Twitter",
-			"body_text": " ad description2",
+			"body_text": "Let's talk.",
 			"cover_url": "https://picsum.photos/1200/627",
 			"icon_url": "https://picsum.photos/200",
-			"impression_tracking_url": "",
-			"open_tracking_url": "",
-			"visit_tracking_url": "",
+			"impression_tracking_url": "https://google.com/",
+			"open_tracking_url": "https://google.com/",
+			"visit_tracking_url": "https://google.com/",
 			"deeplink_url": "https://twitter.com/bartt/status/584046346862100481",
-			"storelink_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
+			"storelink_url": "https://apps.apple.com/us/app/twitter/id333903271",
 			"cta": "Download"
 		}
 
