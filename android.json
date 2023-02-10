@@ -1,0 +1,61 @@
+{
+        "status":"success",
+        "data":[
+            {
+                "request_id":"545",
+                "package_id":"com.morabat.keto",
+                "title":"Keto Receipes",
+                "body_text":" ad description",
+                "main_image_url":"https://picsum.photos/1200/627",
+                "icon_url":"https://picsum.photos/200",
+                "impression_tracking_url":"",
+                "click_tracking_url":"",
+                "storelink_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
+                "deeplink_url":"",
+                "cta":"Install"
+        },
+        {
+                "request_id":"54",
+                "package_id":"com.twitter.android",
+                "title":"Twitter",
+                "body_text":" ad description2",
+                "cover_url":"https://picsum.photos/1200/627",
+                "icon_url":"https://picsum.photos/200",
+                "impression_tracking_url":"",
+                "open_tracking_url":"",
+                "visit_tracking_url":"",
+                "deeplink_url":"https://twitter.com/bartt/status/584046346862100481",
+                "storelink_url":"https://play.google.com/store/apps/details?id=com.twitter.android",
+                 "cta":"Download"
+        },
+          {
+                 "request_id":"5444",
+                "package_id":"com.apowersoft.photoenhancer",
+                "title":"Nam quis nulla. Integer",
+                "body_text":"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus.",
+                "main_image_url":"https://picsum.photos/1200/627",
+                "icon_url":"https://picsum.photos/200",
+                "impression_tracking_url":"",
+                "click_tracking_url":"",
+                "storelink_url":"https://play.google.com/store/apps/details?id=com.apowersoft.photoenhancer",
+                "deeplink_url":"",
+                 "cta":"Get It"
+        },
+          {
+                "request_id":"534",
+                "package_id":"com.bigjpg",
+                "title":"Nam quis nulla. Integer",
+                "body_text":"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus.",
+                "main_image_url":"https://picsum.photos/1200/627",
+                "icon_url":"https://picsum.photos/200",
+                "impression_tracking_url":"",
+                "click_tracking_url":"",
+                "storelink_url":"https://play.google.com/store/apps/details?id=com.bigjpg",
+                "deeplink_url":"",
+                 "cta":"Open App"
+        }
+
+
+        ]
+
+}
