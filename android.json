@@ -8,11 +8,11 @@
                 "body_text":" ad description",
                 "cover_url":"https://picsum.photos/1200/627",
                 "icon_url":"https://picsum.photos/200",
-                "impression_tracking_url":"",
-                "open_tracking_url":"",
+                "impression_tracking_url":"https://google.com/",
+                "open_tracking_url":"https://google.com/",
                 "visit_tracking_url": "https://google.com/",
                 "storelink_url":"https://play.google.com/store/apps/details?id=com.morabat.keto",
-                "deeplink_url":"",
+        
                 "cta":"Install"
         },
         {
@@ -22,9 +22,9 @@
                 "body_text":" ad description2",
                 "cover_url":"https://picsum.photos/1200/627",
                 "icon_url":"https://picsum.photos/200",
-                "impression_tracking_url":"",
-                "open_tracking_url":"",
-                "visit_tracking_url":"",
+                "impression_tracking_url":"https://google.com/",
+                "open_tracking_url":"https://google.com/",
+                "visit_tracking_url":"https://google.com/",
                 "deeplink_url":"https://twitter.com/bartt/status/584046346862100481",
                 "storelink_url":"https://play.google.com/store/apps/details?id=com.twitter.android",
                  "cta":"Download"
@@ -36,11 +36,10 @@
                 "body_text":"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus.",
                 "cover_url":"https://picsum.photos/1200/627",
                 "icon_url":"https://picsum.photos/200",
-                "impression_tracking_url":"",
-                "open_tracking_url":"",
+                "impression_tracking_url":"https://google.com/",
+                "open_tracking_url":"https://google.com/",
                 "visit_tracking_url": "https://google.com/",
                 "storelink_url":"https://play.google.com/store/apps/details?id=com.apowersoft.photoenhancer",
-                "deeplink_url":"",
                  "cta":"Get It"
         },
           {
@@ -50,11 +49,10 @@
                 "body_text":"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus.",
                 "cover_url":"https://picsum.photos/1200/627",
                 "icon_url":"https://picsum.photos/200",
-                "impression_tracking_url":"",
-                "open_tracking_url":"",
+                "impression_tracking_url":"https://google.com/",
+                "open_tracking_url":"https://google.com/",
                 "visit_tracking_url": "https://google.com/",
                 "storelink_url":"https://play.google.com/store/apps/details?id=com.bigjpg",
-                "deeplink_url":"",
                  "cta":"Open App"
         }
 
